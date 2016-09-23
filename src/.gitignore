@@ -1,1 +1,6 @@
-/bin/
+~
+.swp
+.bak
+.tmp
+build/
+.class
